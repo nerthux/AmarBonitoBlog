@@ -5,7 +5,6 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 enableEmoji = true
-publishDir = "dist"
 baseURL = "https://www.quieroamarbonito.com/"
 
 [pagination]
