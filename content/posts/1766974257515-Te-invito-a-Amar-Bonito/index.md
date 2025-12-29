@@ -1,9 +1,10 @@
 ---
 title: "Te invito a Amar Bonito"
-date: 2025-12-29
+date: 2025-12-01
 draft: false
-description: "a description"
-tags: ["example", "tag"]
+description: "Te invito a Amar Bonito: un lugar para hablar de vínculos, relaciones conscientes y sexualidad con un enfoque coloquial y  humano, dionde tenemos permiso para dudar, regarla y equivocarnos."
+summary: "Te invito a Amar Bonito: un lugar para hablar de vínculos, relaciones conscientes y sexualidad con un enfoque coloquial y  humano, donde tenemos permiso para dudar, regarla y equivocarnos."
+tags: ["relaciones conscientes", "vínculos", "experiencia personal", "amar bonito"]
 showAuthorBottom: true
 ---
 

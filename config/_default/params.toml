@@ -37,10 +37,10 @@ showScrollToTop = true
 layout = "hero"
 showRecent = true
 showRecentItems = 5
-showMoreLink = false
+showMoreLink = true
 showMoreLinkDest = "/posts/"
 cardView = false
-cardViewScreenWidth = false
+cardViewScreenWidth = true
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
 
@@ -64,18 +64,19 @@ showPagination = true
 invertPagination = false
 showReadingTime = true
 showTableOfContents = true
-showTaxonomies = false
+showTaxonomies = true
 showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = false
+heroStyle = "thumbAndBackground."
 
 [list]
-showHero = false
+showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
-showSummary = false
+showSummary = true
 showViews = false
 showLikes = false
 showTableOfContents = false
@@ -85,6 +86,7 @@ groupByYear = true
 cardView = false
 cardViewScreenWidth = false
 constrainItemsWidth = false
+heroStyle = "big"
 
 [sitemap]
 excludedKinds = [ "taxonomy", "term" ]
