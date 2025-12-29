@@ -1,0 +1,28 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Amar Bonito | Relaciones Conscientes y Sexualidad"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+logo = "Logo-AmarBonito-Relaciones-Conscientes-y-Sexualidad.png"
+description = "Amar Bonito es un espacio para explorar las relaciones conscientes, la no monogamia ética, el poliamor, la anarquía relacional y la sexualidad desde una mirada crítica, empática y sin juicios. Un blog sobre responsabilidad afectiva, vínculos sanos, comunicación emocional y nuevas formas de amar más libres y honestas."
+
+[[params.author.links]]
+email = "info@amarbonito.com"
+
+[[params.author.links]]
+facebook = "https://www.facebook.com/nerthux"
+
+[[params.author.links]]
+instagram = "https://www.facebook.com/nerthux"
+
+["params.author"]
+name = "Gabriel Covarrubias"
+image = "Gabriel-Covarrubias-2026-profile.jpg"
+headline = "Sentir el amor, habitar el deseo y aprender a vincularnos sin hacernos daño"
+bio = "Soy Gabriel. Exploro las relaciones conscientes, las no monogamias y la sexualidad desde la curiosidad. No escribo para dar recetas, sino para abrir conversaciones incómodas, hablar sobre los mitos del amor romántico y recordar que vincularnos también es una práctica que se aprende, se cuestiona y se deconstruye. Amar bonito no es hacerlo perfecto, es hacerlo con presencia, cuidado y mucha valentía."
