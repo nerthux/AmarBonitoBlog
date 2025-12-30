@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Amar Bonito | Relaciones Conscientes y Sexualidad</title>
-    <link>http://localhost:1313/</link>
-    <description>Recent content on Amar Bonito | Relaciones Conscientes y Sexualidad</description>
+    <title>Presencia on Amar Bonito | Relaciones Conscientes y Sexualidad</title>
+    <link>http://localhost:1313/tags/presencia/</link>
+    <description>Recent content in Presencia on Amar Bonito | Relaciones Conscientes y Sexualidad</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2025 Gabriel Covarrubias</copyright>
-    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/presencia/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Relaciones Conscientes</title>
@@ -17,16 +17,6 @@
       <guid>http://localhost:1313/posts/1767062847530-relaciones-conscientes/</guid>
       <description>¿Qué son las relaciones conscientes? En este artículo reflexiono sobre dejar de relacionarnos en automático, reconocer deseos, miedos y aprendizajes heredados, y empezar a mirar nuestros vínculos con más presencia y honestidad, sin modelos rígidos ni promesas de perfección.</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1767062847530-relaciones-conscientes/featured.png" />
-    </item>
-    
-    <item>
-      <title>Te invito a Amar Bonito</title>
-      <link>http://localhost:1313/posts/1766974257515-te-invito-a-amar-bonito/</link>
-      <pubDate>Mon, 01 Dec 2025 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/1766974257515-te-invito-a-amar-bonito/</guid>
-      <description>Te invito a Amar Bonito: un lugar para hablar de vínculos, relaciones conscientes y sexualidad con un enfoque coloquial y  humano, donde tenemos permiso para dudar, regarla y equivocarnos.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/posts/1766974257515-te-invito-a-amar-bonito/featured.png" />
     </item>
     
   </channel>

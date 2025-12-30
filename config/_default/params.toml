@@ -34,7 +34,7 @@ showAppearanceSwitcher = true
 showScrollToTop = true
 
 [homepage]
-layout = "hero"
+layout = "background"
 showRecent = true
 showRecentItems = 5
 showMoreLink = true
@@ -43,6 +43,7 @@ cardView = false
 cardViewScreenWidth = true
 layoutBackgroundBlur = false
 disableHeroImageFilter = false
+homepageImage = "AmaBonitoBG.png"
 
 [article]
 showDate = true
@@ -69,7 +70,7 @@ showCategoryOnly = false
 showAuthorsBadges = false
 showWordCount = true
 showZenMode = false
-heroStyle = "thumbAndBackground."
+heroStyle = "background"
 
 [list]
 showHero = true
