@@ -27,7 +27,7 @@ smartTOCHideUnfocusedChildren = ""
 layout = "fixed-fill-blur"
 
 [footer]
-showMenu = true
+showMenu = false
 showCopyright = true
 showThemeAttribution = false
 showAppearanceSwitcher = true

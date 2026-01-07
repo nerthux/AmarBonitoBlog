@@ -1,0 +1,79 @@
+<svg width="1200" height="630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#f8f4f0;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#e8ddd4;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="circleGradient1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#d4a574;stop-opacity:0.3" />
+      <stop offset="100%" style="stop-color:#c89564;stop-opacity:0.2" />
+    </linearGradient>
+    <linearGradient id="circleGradient2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#b88554;stop-opacity:0.25" />
+      <stop offset="100%" style="stop-color:#a87544;stop-opacity:0.15" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="1200" height="630" fill="url(#bgGradient)"/>
+  
+  <!-- Decorative circles -->
+  <circle cx="200" cy="150" r="80" fill="url(#circleGradient1)" opacity="0.4"/>
+  <circle cx="1000" cy="480" r="100" fill="url(#circleGradient2)" opacity="0.3"/>
+  <circle cx="1100" cy="100" r="60" fill="url(#circleGradient1)" opacity="0.35"/>
+  
+  <!-- Main illustration: Two hands connecting / agreement symbol -->
+  <!-- Left hand outline (simplified) -->
+  <g transform="translate(300, 200)">
+    <path d="M 0 80 Q -20 60 -30 80 Q -40 100 -20 120 L 0 140 L 20 120 Q 40 100 30 80 Q 20 60 0 80" 
+          fill="none" stroke="#8b6f47" stroke-width="3" opacity="0.6"/>
+    <circle cx="-15" cy="90" r="8" fill="#8b6f47" opacity="0.5"/>
+    <circle cx="15" cy="90" r="8" fill="#8b6f47" opacity="0.5"/>
+  </g>
+  
+  <!-- Right hand outline (simplified) -->
+  <g transform="translate(900, 200)">
+    <path d="M 0 80 Q 20 60 30 80 Q 40 100 20 120 L 0 140 L -20 120 Q -40 100 -30 80 Q -20 60 0 80" 
+          fill="none" stroke="#8b6f47" stroke-width="3" opacity="0.6"/>
+    <circle cx="15" cy="90" r="8" fill="#8b6f47" opacity="0.5"/>
+    <circle cx="-15" cy="90" r="8" fill="#8b6f47" opacity="0.5"/>
+  </g>
+  
+  <!-- Connection line / agreement symbol -->
+  <path d="M 350 240 Q 600 180 850 240" 
+        fill="none" stroke="#8b6f47" stroke-width="4" opacity="0.7" stroke-dasharray="10,5"/>
+  
+  <!-- Heart symbol in the middle (representing relationship/agreement) -->
+  <g transform="translate(600, 220)">
+    <path d="M 0 20 C -15 -10 -30 -20 -30 -35 C -30 -50 -15 -50 0 -30 C 15 -50 30 -50 30 -35 C 30 -20 15 -10 0 20" 
+          fill="#8b6f47" opacity="0.4"/>
+  </g>
+  
+  <!-- Text area -->
+  <g transform="translate(600, 380)">
+    <!-- Title background -->
+    <rect x="-280" y="-40" width="560" height="80" rx="10" fill="#ffffff" opacity="0.85"/>
+    
+    <!-- Main title -->
+    <text x="0" y="0" font-family="Arial, sans-serif" font-size="42" font-weight="bold" 
+          fill="#5a4a3a" text-anchor="middle" dominant-baseline="middle">
+      Acuerdos que
+    </text>
+    <text x="0" y="45" font-family="Arial, sans-serif" font-size="42" font-weight="bold" 
+          fill="#5a4a3a" text-anchor="middle" dominant-baseline="middle">
+      Realmente Funcionan
+    </text>
+    
+    <!-- Subtitle -->
+    <text x="0" y="100" font-family="Arial, sans-serif" font-size="24" 
+          fill="#8b6f47" text-anchor="middle" opacity="0.8">
+      Construyendo relaciones más honestas y claras
+    </text>
+  </g>
+  
+  <!-- Decorative elements -->
+  <circle cx="150" cy="500" r="4" fill="#8b6f47" opacity="0.4"/>
+  <circle cx="1050" cy="200" r="4" fill="#8b6f47" opacity="0.4"/>
+  <circle cx="180" cy="550" r="3" fill="#8b6f47" opacity="0.3"/>
+  <circle cx="1020" cy="150" r="3" fill="#8b6f47" opacity="0.3"/>
+</svg>
